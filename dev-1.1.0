@@ -1,0 +1,37 @@
+Necessidade em obter vagas que estão disponíveis em diferentes horários e manter uma organização da entrada e saída de veículos. 
+Um sistema que irá gerenciar os estacionamentos diversos, onde será organizado quantidades de vagas (avulsas e mensalistas), armazenar horário de entrada e saída de veículos, reservas avulsas de vagas e pagamentos de utilização no estabelecimento.
+
+Analista: gabrie samu
+
+
+Experiencia do usuário
+Os clientes poderão agendar suas vagas pelo telefone antecipadamente, o sistema de gerenciamento de estacionamento terá a funcionalidade de verificar a disponibilidade de vagas para efetuar a reserva.
+
+
+Funcionários que gerenciam o sistema
+
+Terão controle total sobre os horários das vagas disponíveis, podendo realizar alterações de acordo com a demanda necessária, através de relatórios gerados pelo sistema de gerenciamento (informando quantidade disponíveis ou reservadas de acordo com os horários).
+
+
+ Ações do cliente.
+ 	- Reservar vaga.
+- Efetuar o pagamento.
+
+
+
+Design: lara breno
+
+Codificação
+	- Phyton
+	- Django
+	- Kivy
+
+
+Dev: Matheus Rocha  / fa
+
+- Controle sobre as vagas e horários.
+- Cadastro de clientes.
+- Emissão de relatórios relacionados a valores.
+- Alteração de preço.
+
+operação: bruno
