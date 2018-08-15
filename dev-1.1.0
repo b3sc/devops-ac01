@@ -1,7 +1,8 @@
 Necessidade em obter vagas que estão disponíveis em diferentes horários e manter uma organização da entrada e saída de veículos. 
 Um sistema que irá gerenciar os estacionamentos diversos, onde será organizado quantidades de vagas (avulsas e mensalistas), armazenar horário de entrada e saída de veículos, reservas avulsas de vagas e pagamentos de utilização no estabelecimento.
 
-Analista: gabrie samu
+Analista: Gabriel dos Santos Pasqualini, RA: 1800950
+Analista: samu
 
 
 Experiencia do usuário
@@ -19,7 +20,7 @@ Terão controle total sobre os horários das vagas disponíveis, podendo realiza
 
 
 
-Design: Leandro Barreto Lara - 1200504 breno
+Design: lara breno
 
 Codificação
 	- Phyton
